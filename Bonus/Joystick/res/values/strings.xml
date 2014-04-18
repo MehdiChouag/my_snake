@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Joystick</string>
+    <string name="action_settings">Settings</string>
+    <string name="label1">Enter ip address and port of server</string>
+    <string name="text_hint">IP Address</string>
+    <string name="button1">Connexion</string>
+    <drawable name="image">@drawable/controller</drawable>
+    <string name="controller">Joystick</string>
+    <string name="title_activity_controller">controller</string>
+    <string name="port">Port</string>
+    <string name="port_nb">65510</string>
+
+</resources>
